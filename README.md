@@ -7,6 +7,7 @@
 - 💻 My Projects:
 - ⭐ Gabriel's Star - A cross-platform pregnancy and infant loss support application for bereaved parents and families
 - 🍋 Lemonade! - A fun interactive cross-platform mobile game designed for children
+- 🤔 Kidzl Flutter - a fork of Kidzl, which in turn is a fork of wordl, but aimed at children and uses jolly phonics. The goal is to build it in Flutter and try get as close as possible to the original.
 
 <!---
 J-Mowbray/J-Mowbray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
