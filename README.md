@@ -5,8 +5,7 @@
 - 🎵 I love music and can play both electric and acoustic guitar; I have a wide variety of vinyl records  
 - 🚗 I love cars and have a very keen interest in the automotive industry   
 - 🌇 I like to go on adventures and I especially enjoy visiting new places and learning about cultures  
-- 📕 I enjoy learning about history and visiting museums    
-<br>
+- 📕 I enjoy learning about history and visiting museums
 
 **😎 Fun facts:**  
 - 🤴 I'm a descendant of King James VI of Scotland and I of England  
