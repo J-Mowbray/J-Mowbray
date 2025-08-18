@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jamie! Welcome to my GitHub! 
 **Here's a little bit all about me:**  
 💡 I'm extremely passionate about all things technology and I love creating things that make a difference!</br>
-🎓 I studied BSc Computer Science</br>
+🎓 I studied BSc Computer Science and achieved a 1st Class Honours</br>
 🎵 I love music and can play both electric and acoustic guitar; I have a wide variety of vinyl records</br>
 🚗 I love cars and have a very keen interest in the automotive industry</br>
 🌇 I like to go on adventures and I especially enjoy visiting new places and learning about cultures</br>
