@@ -13,7 +13,7 @@
 🚘 I completed my undergraduate placement in the automotive industry</br>
 
   
-## 💻 My Current Projects 
+## 💻 Current Project I'm Working On
 ⭐ **Gabriel's Star:**  
 *A cross-platform pregnancy and infant loss support application for bereaved parents and families</br>
 Developed in Flutter</br>*  
@@ -22,15 +22,16 @@ Developed in Flutter</br>*
 *A fork of Kidzl (which is a fork of wordl) aimed at children using jolly phonics</br>
 Developed in Flutter</br>*  
 
+📕 **Cookbook:**  
+*A simple "recipe book" app</br>
+Web App developed in Flutter, backend in C# .NET with an SQLite Database - [Try it Here!](<https://cookbook.mogga.dev/>)
+</br>*  
 
-## 🕰️ My Past Projects 
+
+## 🕰️ My Past Projects & some of my University Assignments
 🍋 **Lemonade!:**  
 *A fun interactive mobile game designed for children</br>
 Developed in Swift</br>*  
-
-📕 **Cookbook:**  
-*A simple "recipe book" app</br>
-Developed in Flutter</br>*  
 
 🌐 **Cloud Computing DevOps Uni Assignment - ThAmCo Product Catalogue API/Database & ThAmCo Customer Web App:**  
 *Fictious ThAmCo e-commerce wesbite - Built the Customer Web App, Product Catalogue API/Database and hosted on Azure</br>
@@ -71,17 +72,22 @@ Developed in Unity (C#), targeting iOS and Android devices</br>*
 **💾 Databases**
  
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **☁️ Cloud & Infrastructure**
   
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
   ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
   **🛠️ Development Tools & IDEs**
   
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -112,6 +118,7 @@ Developed in Unity (C#), targeting iOS and Android devices</br>*
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## *Extra Stats!*
 
